@@ -273,6 +273,7 @@ small {
 /* Site Footer */
 .footer {
   padding: 30px 30px 60px;
+  background-color: #a56d45;
 }
 
 .footer-section {
@@ -291,7 +292,7 @@ small {
 }
 
 .footer a {
-  color: #959595;
+  color: #552b0d;
   text-decoration: none;
 }
 
